@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Yiğit Dayoğlu
 
-<!--
-**yigitdayoglu/yigitdayoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year Software Engineering student at Eastern Mediterranean University  
+💻 Passionate about cybersecurity, embedded systems, and automation  
+🔧 Skilled in Python, Java, and C  
+🌐 Currently developing skills in penetration testing and basic circuit design  
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+![Python]
+![Java]
+![C]
+![Git]
+![Linux]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- 🔐 Penetration testing labs (Hack The Box / TryHackMe)
+- 🧠 Developing Python security tools
