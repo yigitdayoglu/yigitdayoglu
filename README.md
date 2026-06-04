@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yiğit Dayoğlu
 
 🎓 3rd year Software Engineering student at Eastern Mediterranean University  
-💻 Passionate about cybersecurity, embedded systems, and automation  
+💻 Passionate about cybersecurity and automation  
 🔧 Skilled in Python, Java, and C  
 🌐 Currently developing skills in penetration testing and basic circuit design  
 
