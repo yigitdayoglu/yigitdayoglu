@@ -26,8 +26,3 @@ manual security work into repeatable pipelines.
 | [detection-as-code](https://github.com/yigitdayoglu/detection-as-code) | Detection-as-Code CI/CD pipeline: security rules version-controlled, tested, and auto-deployed with GitHub Actions |
 | [scry](https://github.com/yigitdayoglu/scry) | Automated CVE scanner and monitor: nmap + NVD + KEV/EPSS + nuclei verification with a Flask dashboard |
 | [SysGuard](https://github.com/yigitdayoglu/SysGuard) | Cross-platform security monitor for macOS and Windows with behavior awareness and threat correlation |
-
-## GitHub stats
-
-![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitdayoglu&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitdayoglu&layout=compact&theme=tokyonight)
