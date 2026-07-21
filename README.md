@@ -4,7 +4,7 @@ Software Engineering student focused on cybersecurity and security automation. I
 build tools that find, monitor, and manage security problems, and I like turning
 manual security work into repeatable pipelines.
 
-- 🎓 3rd-year Software Engineering student at Eastern Mediterranean University
+- 🎓 4th year Software Engineering student at Eastern Mediterranean University
 - 🔐 Interested in detection engineering, penetration testing, and security tooling
 - 🧪 Learning on Hack The Box and TryHackMe
 - 💬 Reach me: [yigitdayoglu@gmail.com](mailto:yigitdayoglu@gmail.com)
